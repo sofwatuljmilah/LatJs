@@ -1,0 +1,13 @@
+* {
+    margin: 0px;
+}
+.container {
+    margin: 250px auto;
+    width: 400px;
+    padding: 10px;
+    box-shadow: 0 0 10px #339ed0;
+    background-image: radial-gradient(circle at 80.53% 50%, #b3def5 0, #b7dcf7 4.17%, #bcdbf9 8.33%, #c1dafa 12.5%, #c7d8fa 16.67%, #cdd7f9 20.83%, #d3d5f8 25%, #d9d3f6 29.17%, #dfd2f4 33.33%, #e4d0f1 37.5%, #e9cfed 41.67%, #eecee9 45.83%, #f2cde5 50%, #f5cce1 54.17%, #f8ccdc 58.33%, #facbd7 62.5%, #fccbd2 66.67%, #fcccce 70.83%, #fcccc9 75%, #fbcdc5 79.17%, #facec1 83.33%, #f8cfbe 87.5%, #f5d0bb 91.67%, #f2d1b8 95.83%, #eed3b7 100%);
+}
+h3 {
+  text-align: center;
+}
